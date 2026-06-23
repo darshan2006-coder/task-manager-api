@@ -90,13 +90,13 @@ This project demonstrates the development of a production-style backend REST API
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/task-manager-api-advanced.git
+git clone https://github.com/your-username/Task-Manager-API.git
 ```
 
 ### Navigate to the project
 
 ```bash
-cd task-manager-api-advanced
+cd Task-Manager-API
 ```
 
 ### Install dependencies
